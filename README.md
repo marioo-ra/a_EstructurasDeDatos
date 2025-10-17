@@ -13,4 +13,4 @@ ___
 - Grafos
 
 ___
-#### Mario Romero Angulo, estudiante de Matemáticas y Computación en la UAH
+#### 🖊 Mario Romero Angulo
